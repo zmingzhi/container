@@ -1,18 +1,15 @@
 {
   "name": "zongphp/container",
   "description": "IOC服务容器管理组件",
-  "type": "project",
   "keywords": [
-    "数据库管理"
+    "zongphp",
+    "IOC服务容器"
   ],
   "license": "MIT",
   "minimum-stability": "stable",
   "require": {
     "php": ">=5.4.0",
-    "zongphp/config": "~1.0",
-    "zongphp/page": "~1.0",
-    "zongphp/arr": "~1.0",
-    "zongphp/dir": "~1.0"
+    "zongphp/config": "~2.0"
   },
   "autoload": {
     "files": [],
